@@ -8,5 +8,7 @@ namespace Farmacy
 {
     internal class DTOManager
     {
+        
+        
     }
 }
