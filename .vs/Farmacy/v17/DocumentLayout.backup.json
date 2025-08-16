@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\zalihamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\zalihamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\isporukastavkamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\isporukastavkamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\isporukamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\isporukamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\distributermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\distributermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\pakovanjemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\pakovanjemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\oblikmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\oblikmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\leksekundarnamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\leksekundarnamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\lekmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\lekmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\sekundarnakategorijamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\sekundarnakategorijamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\apotekasalabmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\apotekasalabmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\primarnagrupamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\primarnagrupamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\proizvodjacmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\proizvodjacmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\entiteti\\proizvodjac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:entiteti\\proizvodjac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\radnovrememap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\radnovrememap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\specijalizovanaapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\specijalizovanaapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\standardnaapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\standardnaapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\prodajnajedinicamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\prodajnajedinicamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\menadzerapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\menadzerapotekamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|c:\\users\\natalija\\documents\\iii godina\\sistemsko programiranje\\farmacy\\mapiranja\\tehnicarspecifikacijamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82741577-8D62-4B74-9642-C2072482FBA7}|Farmacy.csproj|solutionrelative:mapiranja\\tehnicarspecifikacijamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZalihaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ZalihaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\ZalihaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ZalihaMap.cs",
+              "RelativeToolTip": "Mapiranja\\ZalihaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:20:16.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsporukaStavkaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\IsporukaStavkaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\IsporukaStavkaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\IsporukaStavkaMap.cs",
+              "RelativeToolTip": "Mapiranja\\IsporukaStavkaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:20:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsporukaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\IsporukaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\IsporukaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\IsporukaMap.cs",
+              "RelativeToolTip": "Mapiranja\\IsporukaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:19:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistributerMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\DistributerMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\DistributerMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\DistributerMap.cs",
+              "RelativeToolTip": "Mapiranja\\DistributerMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:19:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PakovanjeMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\PakovanjeMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\PakovanjeMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\PakovanjeMap.cs",
+              "RelativeToolTip": "Mapiranja\\PakovanjeMap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:19:04.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OblikMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\OblikMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\OblikMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\OblikMap.cs",
+              "RelativeToolTip": "Mapiranja\\OblikMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:18:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LekSekundarnaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\LekSekundarnaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\LekSekundarnaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\LekSekundarnaMap.cs",
+              "RelativeToolTip": "Mapiranja\\LekSekundarnaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:18:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LekMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\LekMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\LekMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\LekMap.cs",
+              "RelativeToolTip": "Mapiranja\\LekMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:18:13.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SekundarnaKategorijaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\SekundarnaKategorijaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\SekundarnaKategorijaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\SekundarnaKategorijaMap.cs",
+              "RelativeToolTip": "Mapiranja\\SekundarnaKategorijaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:17:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrimarnaGrupaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\PrimarnaGrupaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\PrimarnaGrupaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\PrimarnaGrupaMap.cs",
+              "RelativeToolTip": "Mapiranja\\PrimarnaGrupaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:17:27.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApotekaSaLabMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ApotekaSaLabMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\ApotekaSaLabMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ApotekaSaLabMap.cs",
+              "RelativeToolTip": "Mapiranja\\ApotekaSaLabMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:15:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProizvodjacMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ProizvodjacMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\ProizvodjacMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ProizvodjacMap.cs",
+              "RelativeToolTip": "Mapiranja\\ProizvodjacMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:15:57.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proizvodjac.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Entiteti\\Proizvodjac.cs",
+              "RelativeDocumentMoniker": "Entiteti\\Proizvodjac.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Entiteti\\Proizvodjac.cs",
+              "RelativeToolTip": "Entiteti\\Proizvodjac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:16:30.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RadnoVremeMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\RadnoVremeMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\RadnoVremeMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\RadnoVremeMap.cs",
+              "RelativeToolTip": "Mapiranja\\RadnoVremeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:15:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpecijalizovanaApotekaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\SpecijalizovanaApotekaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\SpecijalizovanaApotekaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\SpecijalizovanaApotekaMap.cs",
+              "RelativeToolTip": "Mapiranja\\SpecijalizovanaApotekaMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:15:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StandardnaApotekaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\StandardnaApotekaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\StandardnaApotekaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\StandardnaApotekaMap.cs",
+              "RelativeToolTip": "Mapiranja\\StandardnaApotekaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:14:41.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdajnaJedinicaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ProdajnaJedinicaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\ProdajnaJedinicaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\ProdajnaJedinicaMap.cs",
+              "RelativeToolTip": "Mapiranja\\ProdajnaJedinicaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:14:02.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenadzerApotekaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\MenadzerApotekaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\MenadzerApotekaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\MenadzerApotekaMap.cs",
+              "RelativeToolTip": "Mapiranja\\MenadzerApotekaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:13:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TehnicarSpecifikacijaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\TehnicarSpecifikacijaMap.cs",
+              "RelativeDocumentMoniker": "Mapiranja\\TehnicarSpecifikacijaMap.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\Farmacy\\Mapiranja\\TehnicarSpecifikacijaMap.cs",
+              "RelativeToolTip": "Mapiranja\\TehnicarSpecifikacijaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:13:10.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
